@@ -1,0 +1,12 @@
+C:\PaymentContext\PaymentContext.Shared\bin\Debug\net8.0\PaymentContext.Shared.deps.json
+C:\PaymentContext\PaymentContext.Shared\bin\Debug\net8.0\PaymentContext.Shared.dll
+C:\PaymentContext\PaymentContext.Shared\bin\Debug\net8.0\PaymentContext.Shared.pdb
+C:\PaymentContext\PaymentContext.Shared\obj\Debug\net8.0\PaymentContext.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\PaymentContext\PaymentContext.Shared\obj\Debug\net8.0\PaymentContext.Shared.AssemblyInfoInputs.cache
+C:\PaymentContext\PaymentContext.Shared\obj\Debug\net8.0\PaymentContext.Shared.AssemblyInfo.cs
+C:\PaymentContext\PaymentContext.Shared\obj\Debug\net8.0\PaymentContext.Shared.csproj.CoreCompileInputs.cache
+C:\PaymentContext\PaymentContext.Shared\obj\Debug\net8.0\PaymentContext.Shared.dll
+C:\PaymentContext\PaymentContext.Shared\obj\Debug\net8.0\refint\PaymentContext.Shared.dll
+C:\PaymentContext\PaymentContext.Shared\obj\Debug\net8.0\PaymentContext.Shared.pdb
+C:\PaymentContext\PaymentContext.Shared\obj\Debug\net8.0\ref\PaymentContext.Shared.dll
+C:\PaymentContext\PaymentContext.Shared\obj\Debug\net8.0\PaymentContext.Shared.csproj.AssemblyReference.cache

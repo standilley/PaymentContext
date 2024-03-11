@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "MxZRqaaGDUwOB02hytEivUqaaK34uzEEyhinEe1cH2U7rEy1qLpYSUC3/Pa/fefIvoigh6zysppZMnvVOo9CbA==",
+  "success": true,
+  "projectFilePath": "C:\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Standilley-Dev\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\Standilley-Dev\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
+    "C:\\Users\\Standilley-Dev\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
+    "C:\\Users\\Standilley-Dev\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\microsoft.net.test.sdk.17.8.0.nupkg.sha512",
+    "C:\\Users\\Standilley-Dev\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.8.0\\microsoft.testplatform.objectmodel.17.8.0.nupkg.sha512",
+    "C:\\Users\\Standilley-Dev\\.nuget\\packages\\microsoft.testplatform.testhost\\17.8.0\\microsoft.testplatform.testhost.17.8.0.nupkg.sha512",
+    "C:\\Users\\Standilley-Dev\\.nuget\\packages\\mstest.testadapter\\3.1.1\\mstest.testadapter.3.1.1.nupkg.sha512",
+    "C:\\Users\\Standilley-Dev\\.nuget\\packages\\mstest.testframework\\3.1.1\\mstest.testframework.3.1.1.nupkg.sha512",
+    "C:\\Users\\Standilley-Dev\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Standilley-Dev\\.nuget\\packages\\nuget.frameworks\\6.5.0\\nuget.frameworks.6.5.0.nupkg.sha512",
+    "C:\\Users\\Standilley-Dev\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
